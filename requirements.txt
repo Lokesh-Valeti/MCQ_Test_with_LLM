@@ -1,2 +1,9 @@
 ipykernel
-streamlite
+streamlit
+openai
+langchain
+python.dotenv
+pandas
+pyPDF2
+
+-e.
