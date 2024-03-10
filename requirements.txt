@@ -5,5 +5,3 @@ langchain
 python.dotenv
 pandas
 pyPDF2
-
--e.
