@@ -8,5 +8,6 @@ To run this ptoject :
   4. Activate the virtual environment using command
   "conda activate myenv"
   5. Install all the requirements by using command
-  "pip install -r requirements.txt"
+  "pip install -r requirement.txt
 
+<video controls src="MCQ_generator - Made with Clipchamp.mp4" title="MCQ_generator"></video>
