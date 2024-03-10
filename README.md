@@ -10,4 +10,4 @@ To run this ptoject :
   5. Install all the requirements by using command
   "pip install -r requirement.txt
 
-<video controls src="MCQ_generator - Made with Clipchamp.mp4" title="MCQ_generator"></video>
+https://github.com/sumenchalla/MCQ_Test_with_LLM/assets/76592358/196183f4-522e-4bfc-878d-2fc26e1ff29f
