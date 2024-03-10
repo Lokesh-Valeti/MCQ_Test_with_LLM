@@ -8,6 +8,8 @@ To run this ptoject :
   4. Activate the virtual environment using command
   "conda activate myenv"
   5. Install all the requirements by using command
-  "pip install -r requirement.txt
+  "pip install -r requirement.txt"
+  6.run the ui file by using the command
+    "streamlit run ui.py"
 
 https://github.com/sumenchalla/MCQ_Test_with_LLM/assets/76592358/196183f4-522e-4bfc-878d-2fc26e1ff29f
