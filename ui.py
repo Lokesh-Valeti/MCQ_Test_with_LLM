@@ -15,7 +15,7 @@ with open('Response.json', 'r') as file:
 
 
 #creating a title for the app
-st.title("MCQs Creator Application with LangChain 🦜⛓️")
+st.title("MCQs Creator Application with LLM")
 
 
 with st.form("user input"):
@@ -44,7 +44,7 @@ with st.form("user input"):
                         "response_json": json.dumps(RESPONSE_JSON)
                             }
                     )
-                st.write(response)
+                #st.write(response)
 
             except Exception as e:
                 traceback.print_exception(type(e), e, e.__traceback__)
